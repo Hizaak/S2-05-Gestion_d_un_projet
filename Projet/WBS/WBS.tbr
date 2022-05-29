@@ -2,18 +2,8 @@
 <!DOCTYPE Tabula_Rasa>
 <Algorithme>
   <nom>Algorithme</nom>
-  <date_creation>17/5/2022 18:29</date_creation>
+  <date_creation>30/5/2022 00:32</date_creation>
   <Elements>
-    <Action>
-      <Position>845;272</Position>
-      <StyleLien>1</StyleLien>
-      <PreAssertion>?</PreAssertion>
-      <PostAssertion>?</PostAssertion>
-      <Titre>2.2. Réalisation des maquettes</Titre>
-      <DetailsVisible>1</DetailsVisible>
-      <DetailsVideVisible>0</DetailsVideVisible>
-      <Enfants/>
-    </Action>
     <Action>
       <Position>764;55</Position>
       <StyleLien>2</StyleLien>
@@ -33,7 +23,7 @@
           <DetailsVideVisible>0</DetailsVideVisible>
           <Enfants>
             <Action>
-              <Position>35;269</Position>
+              <Position>10;282</Position>
               <StyleLien>1</StyleLien>
               <PreAssertion>?</PreAssertion>
               <PostAssertion>?</PostAssertion>
@@ -43,7 +33,7 @@
               <Enfants/>
             </Action>
             <Action>
-              <Position>633;272</Position>
+              <Position>205;283</Position>
               <StyleLien>1</StyleLien>
               <PreAssertion>?</PreAssertion>
               <PostAssertion>?</PostAssertion>
@@ -53,7 +43,7 @@
               <Enfants/>
             </Action>
             <Action>
-              <Position>205;270</Position>
+              <Position>423;282</Position>
               <StyleLien>1</StyleLien>
               <PreAssertion>?</PreAssertion>
               <PostAssertion>?</PostAssertion>
@@ -63,7 +53,7 @@
               <Enfants/>
             </Action>
             <Action>
-              <Position>416;270</Position>
+              <Position>640;280</Position>
               <StyleLien>1</StyleLien>
               <PreAssertion>?</PreAssertion>
               <PostAssertion>?</PostAssertion>
@@ -72,10 +62,20 @@
               <DetailsVideVisible>0</DetailsVideVisible>
               <Enfants/>
             </Action>
+            <Action>
+              <Position>850;280</Position>
+              <StyleLien>1</StyleLien>
+              <PreAssertion>?</PreAssertion>
+              <PostAssertion>?</PostAssertion>
+              <Titre>1.5. Réalisation des maquettes</Titre>
+              <DetailsVisible>1</DetailsVisible>
+              <DetailsVideVisible>0</DetailsVideVisible>
+              <Enfants/>
+            </Action>
           </Enfants>
         </Action>
         <Action>
-          <Position>1126;160</Position>
+          <Position>1298;163</Position>
           <StyleLien>2</StyleLien>
           <PreAssertion>?</PreAssertion>
           <PostAssertion>?</PostAssertion>
@@ -84,7 +84,7 @@
           <DetailsVideVisible>0</DetailsVideVisible>
           <Enfants>
             <Action>
-              <Position>1033;270</Position>
+              <Position>1059;280</Position>
               <StyleLien>1</StyleLien>
               <PreAssertion>?</PreAssertion>
               <PostAssertion>?</PostAssertion>
@@ -94,7 +94,7 @@
               <Enfants/>
             </Action>
             <Action>
-              <Position>1204;271</Position>
+              <Position>1269;281</Position>
               <StyleLien>1</StyleLien>
               <PreAssertion>?</PreAssertion>
               <PostAssertion>?</PostAssertion>
@@ -104,7 +104,7 @@
               <Enfants/>
             </Action>
             <Action>
-              <Position>1345;272</Position>
+              <Position>1442;281</Position>
               <StyleLien>1</StyleLien>
               <PreAssertion>?</PreAssertion>
               <PostAssertion>?</PostAssertion>
@@ -116,7 +116,7 @@
           </Enfants>
         </Action>
         <Action>
-          <Position>1778;169</Position>
+          <Position>1994;171</Position>
           <StyleLien>2</StyleLien>
           <PreAssertion>?</PreAssertion>
           <PostAssertion>?</PostAssertion>
@@ -125,7 +125,7 @@
           <DetailsVideVisible>0</DetailsVideVisible>
           <Enfants>
             <Action>
-              <Position>2273;276</Position>
+              <Position>2288;285</Position>
               <StyleLien>1</StyleLien>
               <PreAssertion>?</PreAssertion>
               <PostAssertion>?</PostAssertion>
@@ -135,7 +135,7 @@
               <Enfants/>
             </Action>
             <Action>
-              <Position>2077;274</Position>
+              <Position>2076;285</Position>
               <StyleLien>1</StyleLien>
               <PreAssertion>?</PreAssertion>
               <PostAssertion>?</PostAssertion>
@@ -145,7 +145,7 @@
               <Enfants/>
             </Action>
             <Action>
-              <Position>1861;275</Position>
+              <Position>1867;286</Position>
               <StyleLien>1</StyleLien>
               <PreAssertion>?</PreAssertion>
               <PostAssertion>?</PostAssertion>
@@ -155,7 +155,7 @@
               <Enfants/>
             </Action>
             <Action>
-              <Position>1646;276</Position>
+              <Position>1656;286</Position>
               <StyleLien>1</StyleLien>
               <PreAssertion>?</PreAssertion>
               <PostAssertion>?</PostAssertion>
@@ -167,7 +167,7 @@
           </Enfants>
         </Action>
         <Action>
-          <Position>3037;212</Position>
+          <Position>2712;166</Position>
           <StyleLien>2</StyleLien>
           <PreAssertion>?</PreAssertion>
           <PostAssertion>?</PostAssertion>
@@ -176,7 +176,7 @@
           <DetailsVideVisible>0</DetailsVideVisible>
           <Enfants>
             <Action>
-              <Position>2959;320</Position>
+              <Position>2594;287</Position>
               <StyleLien>2</StyleLien>
               <PreAssertion>?</PreAssertion>
               <PostAssertion>?</PostAssertion>
@@ -185,7 +185,7 @@
               <DetailsVideVisible>0</DetailsVideVisible>
               <Enfants>
                 <Action>
-                  <Position>2818;421</Position>
+                  <Position>2241;407</Position>
                   <StyleLien>1</StyleLien>
                   <PreAssertion>?</PreAssertion>
                   <PostAssertion>?</PostAssertion>
@@ -195,21 +195,31 @@
                   <Enfants/>
                 </Action>
                 <Action>
-                  <Position>2972;422</Position>
+                  <Position>2432;408</Position>
                   <StyleLien>1</StyleLien>
                   <PreAssertion>?</PreAssertion>
                   <PostAssertion>?</PostAssertion>
-                  <Titre>4.1.1. Tests unitaires</Titre>
+                  <Titre>4.1.2. Tests unitaires</Titre>
                   <DetailsVisible>1</DetailsVisible>
                   <DetailsVideVisible>0</DetailsVideVisible>
                   <Enfants/>
                 </Action>
                 <Action>
-                  <Position>3114;423</Position>
+                  <Position>2605;409</Position>
                   <StyleLien>1</StyleLien>
                   <PreAssertion>?</PreAssertion>
                   <PostAssertion>?</PostAssertion>
-                  <Titre>4.1.2. Tests d'intégration</Titre>
+                  <Titre>4.1.3. Tests d'intégration</Titre>
+                  <DetailsVisible>1</DetailsVisible>
+                  <DetailsVideVisible>0</DetailsVideVisible>
+                  <Enfants/>
+                </Action>
+                <Action>
+                  <Position>2798;410</Position>
+                  <StyleLien>1</StyleLien>
+                  <PreAssertion>?</PreAssertion>
+                  <PostAssertion>?</PostAssertion>
+                  <Titre>4.1.4 Tests par une personne externe à l'application</Titre>
                   <DetailsVisible>1</DetailsVisible>
                   <DetailsVideVisible>0</DetailsVideVisible>
                   <Enfants/>
@@ -217,7 +227,7 @@
               </Enfants>
             </Action>
             <Action>
-              <Position>3132;316</Position>
+              <Position>2817;285</Position>
               <StyleLien>1</StyleLien>
               <PreAssertion>?</PreAssertion>
               <PostAssertion>?</PostAssertion>
@@ -229,7 +239,7 @@
           </Enfants>
         </Action>
         <Action>
-          <Position>3891;191</Position>
+          <Position>3420;152</Position>
           <StyleLien>2</StyleLien>
           <PreAssertion>?</PreAssertion>
           <PostAssertion>?</PostAssertion>
@@ -238,7 +248,7 @@
           <DetailsVideVisible>0</DetailsVideVisible>
           <Enfants>
             <Action>
-              <Position>3594;310</Position>
+              <Position>3160;275</Position>
               <StyleLien>1</StyleLien>
               <PreAssertion>?</PreAssertion>
               <PostAssertion>?</PostAssertion>
@@ -248,7 +258,7 @@
               <Enfants/>
             </Action>
             <Action>
-              <Position>3830;308</Position>
+              <Position>3392;274</Position>
               <StyleLien>1</StyleLien>
               <PreAssertion>?</PreAssertion>
               <PostAssertion>?</PostAssertion>
@@ -258,7 +268,7 @@
               <Enfants/>
             </Action>
             <Action>
-              <Position>4072;308</Position>
+              <Position>3612;274</Position>
               <StyleLien>1</StyleLien>
               <PreAssertion>?</PreAssertion>
               <PostAssertion>?</PostAssertion>
@@ -268,7 +278,7 @@
               <Enfants/>
             </Action>
             <Action>
-              <Position>4363;309</Position>
+              <Position>3965;276</Position>
               <StyleLien>1</StyleLien>
               <PreAssertion>?</PreAssertion>
               <PostAssertion>?</PostAssertion>
@@ -278,7 +288,7 @@
               <Enfants/>
             </Action>
             <Action>
-              <Position>4210;307</Position>
+              <Position>3769;274</Position>
               <StyleLien>1</StyleLien>
               <PreAssertion>?</PreAssertion>
               <PostAssertion>?</PostAssertion>
@@ -290,16 +300,6 @@
           </Enfants>
         </Action>
       </Enfants>
-    </Action>
-    <Action>
-      <Position>3282;421</Position>
-      <StyleLien>1</StyleLien>
-      <PreAssertion>?</PreAssertion>
-      <PostAssertion>?</PostAssertion>
-      <Titre>4.1.4 Tests par une personne externe à l'application</Titre>
-      <DetailsVisible>1</DetailsVisible>
-      <DetailsVideVisible>0</DetailsVideVisible>
-      <Enfants/>
     </Action>
   </Elements>
 </Algorithme>
