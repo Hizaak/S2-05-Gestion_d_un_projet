@@ -2,7 +2,7 @@
 <!DOCTYPE Tabula_Rasa>
 <Algorithme>
   <nom>Algorithme</nom>
-  <date_creation>30/5/2022 00:32</date_creation>
+  <date_creation>6/6/2022 23:06</date_creation>
   <Elements>
     <Action>
       <Position>764;55</Position>
@@ -33,7 +33,7 @@
               <Enfants/>
             </Action>
             <Action>
-              <Position>205;283</Position>
+              <Position>207;282</Position>
               <StyleLien>1</StyleLien>
               <PreAssertion>?</PreAssertion>
               <PostAssertion>?</PostAssertion>
@@ -43,7 +43,7 @@
               <Enfants/>
             </Action>
             <Action>
-              <Position>423;282</Position>
+              <Position>424;281</Position>
               <StyleLien>1</StyleLien>
               <PreAssertion>?</PreAssertion>
               <PostAssertion>?</PostAssertion>
@@ -53,7 +53,7 @@
               <Enfants/>
             </Action>
             <Action>
-              <Position>640;280</Position>
+              <Position>638;282</Position>
               <StyleLien>1</StyleLien>
               <PreAssertion>?</PreAssertion>
               <PostAssertion>?</PostAssertion>
@@ -63,11 +63,11 @@
               <Enfants/>
             </Action>
             <Action>
-              <Position>850;280</Position>
+              <Position>849;282</Position>
               <StyleLien>1</StyleLien>
               <PreAssertion>?</PreAssertion>
               <PostAssertion>?</PostAssertion>
-              <Titre>1.5. Réalisation des maquettes</Titre>
+              <Titre>1.5. Diagramme des CU, scénarios, maquettes</Titre>
               <DetailsVisible>1</DetailsVisible>
               <DetailsVideVisible>0</DetailsVideVisible>
               <Enfants/>
@@ -125,24 +125,117 @@
           <DetailsVideVisible>0</DetailsVideVisible>
           <Enfants>
             <Action>
-              <Position>2288;285</Position>
-              <StyleLien>1</StyleLien>
+              <Position>2471;273</Position>
+              <StyleLien>2</StyleLien>
               <PreAssertion>?</PreAssertion>
               <PostAssertion>?</PostAssertion>
               <Titre>3.4. Programmation de l'application</Titre>
               <DetailsVisible>1</DetailsVisible>
               <DetailsVideVisible>0</DetailsVideVisible>
-              <Enfants/>
+              <Enfants>
+                <Action>
+                  <Position>2379;370</Position>
+                  <StyleLien>2</StyleLien>
+                  <PreAssertion>?</PreAssertion>
+                  <PostAssertion>?</PostAssertion>
+                  <Titre>3.4.1 Création des différentes pages</Titre>
+                  <DetailsVisible>1</DetailsVisible>
+                  <DetailsVideVisible>0</DetailsVideVisible>
+                  <Enfants>
+                    <Action>
+                      <Position>2203;479</Position>
+                      <StyleLien>1</StyleLien>
+                      <PreAssertion>?</PreAssertion>
+                      <PostAssertion>?</PostAssertion>
+                      <Titre>3.4.1 Connexion</Titre>
+                      <DetailsVisible>1</DetailsVisible>
+                      <DetailsVideVisible>0</DetailsVideVisible>
+                      <Enfants/>
+                    </Action>
+                    <Action>
+                      <Position>2340;478</Position>
+                      <StyleLien>1</StyleLien>
+                      <PreAssertion>?</PreAssertion>
+                      <PostAssertion>?</PostAssertion>
+                      <Titre>3.4.2  Accueil</Titre>
+                      <DetailsVisible>1</DetailsVisible>
+                      <DetailsVideVisible>0</DetailsVideVisible>
+                      <Enfants/>
+                    </Action>
+                    <Action>
+                      <Position>2464;478</Position>
+                      <StyleLien>1</StyleLien>
+                      <PreAssertion>?</PreAssertion>
+                      <PostAssertion>?</PostAssertion>
+                      <Titre>3.4.3 Profil</Titre>
+                      <DetailsVisible>1</DetailsVisible>
+                      <DetailsVideVisible>0</DetailsVideVisible>
+                      <Enfants/>
+                    </Action>
+                    <Action>
+                      <Position>2575;477</Position>
+                      <StyleLien>1</StyleLien>
+                      <PreAssertion>?</PreAssertion>
+                      <PostAssertion>?</PostAssertion>
+                      <Titre>3.4.4 Salons de discussion</Titre>
+                      <DetailsVisible>1</DetailsVisible>
+                      <DetailsVideVisible>0</DetailsVideVisible>
+                      <Enfants/>
+                    </Action>
+                  </Enfants>
+                </Action>
+                <Action>
+                  <Position>2596;370</Position>
+                  <StyleLien>1</StyleLien>
+                  <PreAssertion>?</PreAssertion>
+                  <PostAssertion>?</PostAssertion>
+                  <Titre>3.4.2 Finalisation</Titre>
+                  <DetailsVisible>1</DetailsVisible>
+                  <DetailsVideVisible>0</DetailsVideVisible>
+                  <Enfants/>
+                </Action>
+              </Enfants>
             </Action>
             <Action>
               <Position>2076;285</Position>
-              <StyleLien>1</StyleLien>
+              <StyleLien>2</StyleLien>
               <PreAssertion>?</PreAssertion>
               <PostAssertion>?</PostAssertion>
               <Titre>3.3. Création des algorithmes</Titre>
               <DetailsVisible>1</DetailsVisible>
               <DetailsVideVisible>0</DetailsVideVisible>
-              <Enfants/>
+              <Enfants>
+                <Action>
+                  <Position>1868;375</Position>
+                  <StyleLien>1</StyleLien>
+                  <PreAssertion>?</PreAssertion>
+                  <PostAssertion>?</PostAssertion>
+                  <Titre>3.3.1 Suggestion lors de la recherche</Titre>
+                  <DetailsVisible>1</DetailsVisible>
+                  <DetailsVideVisible>0</DetailsVideVisible>
+                  <Enfants/>
+                </Action>
+                <Action>
+                  <Position>2094;375</Position>
+                  <StyleLien>1</StyleLien>
+                  <PreAssertion>?</PreAssertion>
+                  <PostAssertion>?</PostAssertion>
+                  <Titre>3.3.2 Tendances</Titre>
+                  <DetailsVisible>1</DetailsVisible>
+                  <DetailsVideVisible>0</DetailsVideVisible>
+                  <Enfants/>
+                </Action>
+                <Action>
+                  <Position>2237;376</Position>
+                  <StyleLien>1</StyleLien>
+                  <PreAssertion>?</PreAssertion>
+                  <PostAssertion>?</PostAssertion>
+                  <Titre>3.3.3 "Heat map"</Titre>
+                  <DetailsVisible>1</DetailsVisible>
+                  <DetailsVideVisible>0</DetailsVideVisible>
+                  <Enfants/>
+                </Action>
+              </Enfants>
             </Action>
             <Action>
               <Position>1867;286</Position>
@@ -167,7 +260,7 @@
           </Enfants>
         </Action>
         <Action>
-          <Position>2712;166</Position>
+          <Position>3226;172</Position>
           <StyleLien>2</StyleLien>
           <PreAssertion>?</PreAssertion>
           <PostAssertion>?</PostAssertion>
@@ -176,7 +269,7 @@
           <DetailsVideVisible>0</DetailsVideVisible>
           <Enfants>
             <Action>
-              <Position>2594;287</Position>
+              <Position>3108;260</Position>
               <StyleLien>2</StyleLien>
               <PreAssertion>?</PreAssertion>
               <PostAssertion>?</PostAssertion>
@@ -185,7 +278,7 @@
               <DetailsVideVisible>0</DetailsVideVisible>
               <Enfants>
                 <Action>
-                  <Position>2241;407</Position>
+                  <Position>2846;354</Position>
                   <StyleLien>1</StyleLien>
                   <PreAssertion>?</PreAssertion>
                   <PostAssertion>?</PostAssertion>
@@ -195,7 +288,7 @@
                   <Enfants/>
                 </Action>
                 <Action>
-                  <Position>2432;408</Position>
+                  <Position>3038;355</Position>
                   <StyleLien>1</StyleLien>
                   <PreAssertion>?</PreAssertion>
                   <PostAssertion>?</PostAssertion>
@@ -205,7 +298,7 @@
                   <Enfants/>
                 </Action>
                 <Action>
-                  <Position>2605;409</Position>
+                  <Position>3203;355</Position>
                   <StyleLien>1</StyleLien>
                   <PreAssertion>?</PreAssertion>
                   <PostAssertion>?</PostAssertion>
@@ -215,7 +308,7 @@
                   <Enfants/>
                 </Action>
                 <Action>
-                  <Position>2798;410</Position>
+                  <Position>3394;354</Position>
                   <StyleLien>1</StyleLien>
                   <PreAssertion>?</PreAssertion>
                   <PostAssertion>?</PostAssertion>
@@ -227,7 +320,7 @@
               </Enfants>
             </Action>
             <Action>
-              <Position>2817;285</Position>
+              <Position>3322;259</Position>
               <StyleLien>1</StyleLien>
               <PreAssertion>?</PreAssertion>
               <PostAssertion>?</PostAssertion>
@@ -239,7 +332,7 @@
           </Enfants>
         </Action>
         <Action>
-          <Position>3420;152</Position>
+          <Position>3934;141</Position>
           <StyleLien>2</StyleLien>
           <PreAssertion>?</PreAssertion>
           <PostAssertion>?</PostAssertion>
@@ -248,7 +341,7 @@
           <DetailsVideVisible>0</DetailsVideVisible>
           <Enfants>
             <Action>
-              <Position>3160;275</Position>
+              <Position>3672;230</Position>
               <StyleLien>1</StyleLien>
               <PreAssertion>?</PreAssertion>
               <PostAssertion>?</PostAssertion>
@@ -258,7 +351,7 @@
               <Enfants/>
             </Action>
             <Action>
-              <Position>3392;274</Position>
+              <Position>3899;229</Position>
               <StyleLien>1</StyleLien>
               <PreAssertion>?</PreAssertion>
               <PostAssertion>?</PostAssertion>
@@ -268,7 +361,7 @@
               <Enfants/>
             </Action>
             <Action>
-              <Position>3612;274</Position>
+              <Position>4117;229</Position>
               <StyleLien>1</StyleLien>
               <PreAssertion>?</PreAssertion>
               <PostAssertion>?</PostAssertion>
@@ -278,7 +371,7 @@
               <Enfants/>
             </Action>
             <Action>
-              <Position>3965;276</Position>
+              <Position>4464;227</Position>
               <StyleLien>1</StyleLien>
               <PreAssertion>?</PreAssertion>
               <PostAssertion>?</PostAssertion>
@@ -288,7 +381,7 @@
               <Enfants/>
             </Action>
             <Action>
-              <Position>3769;274</Position>
+              <Position>4268;228</Position>
               <StyleLien>1</StyleLien>
               <PreAssertion>?</PreAssertion>
               <PostAssertion>?</PostAssertion>
@@ -298,6 +391,67 @@
               <Enfants/>
             </Action>
           </Enfants>
+        </Action>
+      </Enfants>
+    </Action>
+    <Action>
+      <Position>563;555</Position>
+      <StyleLien>2</StyleLien>
+      <PreAssertion>?</PreAssertion>
+      <PostAssertion>?</PostAssertion>
+      <Titre>Pictyde</Titre>
+      <DetailsVisible>1</DetailsVisible>
+      <DetailsVideVisible>0</DetailsVideVisible>
+      <Enfants>
+        <Action>
+          <Position>492;654</Position>
+          <StyleLien>1</StyleLien>
+          <PreAssertion>?</PreAssertion>
+          <PostAssertion>?</PostAssertion>
+          <Titre>3. Developpement</Titre>
+          <DetailsVisible>1</DetailsVisible>
+          <DetailsVideVisible>0</DetailsVideVisible>
+          <Enfants/>
+        </Action>
+        <Action>
+          <Position>351;655</Position>
+          <StyleLien>1</StyleLien>
+          <PreAssertion>?</PreAssertion>
+          <PostAssertion>?</PostAssertion>
+          <Titre>2. Conception</Titre>
+          <DetailsVisible>1</DetailsVisible>
+          <DetailsVideVisible>0</DetailsVideVisible>
+          <Enfants/>
+        </Action>
+        <Action>
+          <Position>660;653</Position>
+          <StyleLien>1</StyleLien>
+          <PreAssertion>?</PreAssertion>
+          <PostAssertion>?</PostAssertion>
+          <Titre>4. Tests et intégration</Titre>
+          <DetailsVisible>1</DetailsVisible>
+          <DetailsVideVisible>0</DetailsVideVisible>
+          <Enfants/>
+        </Action>
+        <Action>
+          <Position>844;652</Position>
+          <StyleLien>1</StyleLien>
+          <PreAssertion>?</PreAssertion>
+          <PostAssertion>?</PostAssertion>
+          <Titre>5. Livrables</Titre>
+          <DetailsVisible>1</DetailsVisible>
+          <DetailsVideVisible>0</DetailsVideVisible>
+          <Enfants/>
+        </Action>
+        <Action>
+          <Position>234;657</Position>
+          <StyleLien>1</StyleLien>
+          <PreAssertion>?</PreAssertion>
+          <PostAssertion>?</PostAssertion>
+          <Titre>1. Analyse</Titre>
+          <DetailsVisible>1</DetailsVisible>
+          <DetailsVideVisible>0</DetailsVideVisible>
+          <Enfants/>
         </Action>
       </Enfants>
     </Action>
