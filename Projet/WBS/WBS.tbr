@@ -2,7 +2,11 @@
 <!DOCTYPE Tabula_Rasa>
 <Algorithme>
   <nom>Algorithme</nom>
+<<<<<<< HEAD
   <date_creation>7/6/2022 01:00</date_creation>
+=======
+  <date_creation>30/5/2022 00:32</date_creation>
+>>>>>>> main
   <Elements>
     <Action>
       <Position>764;55</Position>
@@ -23,7 +27,11 @@
           <DetailsVideVisible>0</DetailsVideVisible>
           <Enfants>
             <Action>
+<<<<<<< HEAD
               <Position>4;244</Position>
+=======
+              <Position>10;282</Position>
+>>>>>>> main
               <StyleLien>1</StyleLien>
               <PreAssertion>?</PreAssertion>
               <PostAssertion>?</PostAssertion>
@@ -33,6 +41,7 @@
               <Enfants/>
             </Action>
             <Action>
+<<<<<<< HEAD
               <Position>409;244</Position>
               <StyleLien>1</StyleLien>
               <PreAssertion>?</PreAssertion>
@@ -54,6 +63,9 @@
             </Action>
             <Action>
               <Position>835;247</Position>
+=======
+              <Position>205;283</Position>
+>>>>>>> main
               <StyleLien>1</StyleLien>
               <PreAssertion>?</PreAssertion>
               <PostAssertion>?</PostAssertion>
@@ -63,7 +75,11 @@
               <Enfants/>
             </Action>
             <Action>
+<<<<<<< HEAD
               <Position>1051;248</Position>
+=======
+              <Position>423;282</Position>
+>>>>>>> main
               <StyleLien>1</StyleLien>
               <PreAssertion>?</PreAssertion>
               <PostAssertion>?</PostAssertion>
@@ -73,7 +89,11 @@
               <Enfants/>
             </Action>
             <Action>
+<<<<<<< HEAD
               <Position>622;245</Position>
+=======
+              <Position>640;280</Position>
+>>>>>>> main
               <StyleLien>1</StyleLien>
               <PreAssertion>?</PreAssertion>
               <PostAssertion>?</PostAssertion>
@@ -82,10 +102,24 @@
               <DetailsVideVisible>0</DetailsVideVisible>
               <Enfants/>
             </Action>
+            <Action>
+              <Position>850;280</Position>
+              <StyleLien>1</StyleLien>
+              <PreAssertion>?</PreAssertion>
+              <PostAssertion>?</PostAssertion>
+              <Titre>1.5. Réalisation des maquettes</Titre>
+              <DetailsVisible>1</DetailsVisible>
+              <DetailsVideVisible>0</DetailsVideVisible>
+              <Enfants/>
+            </Action>
           </Enfants>
         </Action>
         <Action>
+<<<<<<< HEAD
           <Position>1489;147</Position>
+=======
+          <Position>1298;163</Position>
+>>>>>>> main
           <StyleLien>2</StyleLien>
           <PreAssertion>?</PreAssertion>
           <PostAssertion>?</PostAssertion>
@@ -94,7 +128,11 @@
           <DetailsVideVisible>0</DetailsVideVisible>
           <Enfants>
             <Action>
+<<<<<<< HEAD
               <Position>1238;239</Position>
+=======
+              <Position>1059;280</Position>
+>>>>>>> main
               <StyleLien>1</StyleLien>
               <PreAssertion>?</PreAssertion>
               <PostAssertion>?</PostAssertion>
@@ -104,7 +142,11 @@
               <Enfants/>
             </Action>
             <Action>
+<<<<<<< HEAD
               <Position>1460;238</Position>
+=======
+              <Position>1269;281</Position>
+>>>>>>> main
               <StyleLien>1</StyleLien>
               <PreAssertion>?</PreAssertion>
               <PostAssertion>?</PostAssertion>
@@ -114,7 +156,11 @@
               <Enfants/>
             </Action>
             <Action>
+<<<<<<< HEAD
               <Position>1647;239</Position>
+=======
+              <Position>1442;281</Position>
+>>>>>>> main
               <StyleLien>1</StyleLien>
               <PreAssertion>?</PreAssertion>
               <PostAssertion>?</PostAssertion>
@@ -126,7 +172,11 @@
           </Enfants>
         </Action>
         <Action>
+<<<<<<< HEAD
           <Position>2244;149</Position>
+=======
+          <Position>1994;171</Position>
+>>>>>>> main
           <StyleLien>2</StyleLien>
           <PreAssertion>?</PreAssertion>
           <PostAssertion>?</PostAssertion>
@@ -135,8 +185,13 @@
           <DetailsVideVisible>0</DetailsVideVisible>
           <Enfants>
             <Action>
+<<<<<<< HEAD
               <Position>2718;234</Position>
               <StyleLien>2</StyleLien>
+=======
+              <Position>2288;285</Position>
+              <StyleLien>1</StyleLien>
+>>>>>>> main
               <PreAssertion>?</PreAssertion>
               <PostAssertion>?</PostAssertion>
               <Titre>3.4. Programmation de l'application</Titre>
@@ -207,8 +262,13 @@
               </Enfants>
             </Action>
             <Action>
+<<<<<<< HEAD
               <Position>2324;236</Position>
               <StyleLien>2</StyleLien>
+=======
+              <Position>2076;285</Position>
+              <StyleLien>1</StyleLien>
+>>>>>>> main
               <PreAssertion>?</PreAssertion>
               <PostAssertion>?</PostAssertion>
               <Titre>3.3. Création des algorithmes</Titre>
@@ -248,7 +308,11 @@
               </Enfants>
             </Action>
             <Action>
+<<<<<<< HEAD
               <Position>2115;237</Position>
+=======
+              <Position>1867;286</Position>
+>>>>>>> main
               <StyleLien>1</StyleLien>
               <PreAssertion>?</PreAssertion>
               <PostAssertion>?</PostAssertion>
@@ -258,7 +322,11 @@
               <Enfants/>
             </Action>
             <Action>
+<<<<<<< HEAD
               <Position>1904;237</Position>
+=======
+              <Position>1656;286</Position>
+>>>>>>> main
               <StyleLien>1</StyleLien>
               <PreAssertion>?</PreAssertion>
               <PostAssertion>?</PostAssertion>
@@ -270,7 +338,11 @@
           </Enfants>
         </Action>
         <Action>
+<<<<<<< HEAD
           <Position>3661;168</Position>
+=======
+          <Position>2712;166</Position>
+>>>>>>> main
           <StyleLien>2</StyleLien>
           <PreAssertion>?</PreAssertion>
           <PostAssertion>?</PostAssertion>
@@ -279,7 +351,11 @@
           <DetailsVideVisible>0</DetailsVideVisible>
           <Enfants>
             <Action>
+<<<<<<< HEAD
               <Position>3543;256</Position>
+=======
+              <Position>2594;287</Position>
+>>>>>>> main
               <StyleLien>2</StyleLien>
               <PreAssertion>?</PreAssertion>
               <PostAssertion>?</PostAssertion>
@@ -288,7 +364,11 @@
               <DetailsVideVisible>0</DetailsVideVisible>
               <Enfants>
                 <Action>
+<<<<<<< HEAD
                   <Position>3281;350</Position>
+=======
+                  <Position>2241;407</Position>
+>>>>>>> main
                   <StyleLien>1</StyleLien>
                   <PreAssertion>?</PreAssertion>
                   <PostAssertion>?</PostAssertion>
@@ -298,7 +378,11 @@
                   <Enfants/>
                 </Action>
                 <Action>
+<<<<<<< HEAD
                   <Position>3473;351</Position>
+=======
+                  <Position>2432;408</Position>
+>>>>>>> main
                   <StyleLien>1</StyleLien>
                   <PreAssertion>?</PreAssertion>
                   <PostAssertion>?</PostAssertion>
@@ -308,7 +392,11 @@
                   <Enfants/>
                 </Action>
                 <Action>
+<<<<<<< HEAD
                   <Position>3638;351</Position>
+=======
+                  <Position>2605;409</Position>
+>>>>>>> main
                   <StyleLien>1</StyleLien>
                   <PreAssertion>?</PreAssertion>
                   <PostAssertion>?</PostAssertion>
@@ -318,7 +406,11 @@
                   <Enfants/>
                 </Action>
                 <Action>
+<<<<<<< HEAD
                   <Position>3829;350</Position>
+=======
+                  <Position>2798;410</Position>
+>>>>>>> main
                   <StyleLien>1</StyleLien>
                   <PreAssertion>?</PreAssertion>
                   <PostAssertion>?</PostAssertion>
@@ -330,7 +422,11 @@
               </Enfants>
             </Action>
             <Action>
+<<<<<<< HEAD
               <Position>3757;255</Position>
+=======
+              <Position>2817;285</Position>
+>>>>>>> main
               <StyleLien>1</StyleLien>
               <PreAssertion>?</PreAssertion>
               <PostAssertion>?</PostAssertion>
@@ -342,7 +438,11 @@
           </Enfants>
         </Action>
         <Action>
+<<<<<<< HEAD
           <Position>4369;137</Position>
+=======
+          <Position>3420;152</Position>
+>>>>>>> main
           <StyleLien>2</StyleLien>
           <PreAssertion>?</PreAssertion>
           <PostAssertion>?</PostAssertion>
@@ -351,7 +451,11 @@
           <DetailsVideVisible>0</DetailsVideVisible>
           <Enfants>
             <Action>
+<<<<<<< HEAD
               <Position>4107;226</Position>
+=======
+              <Position>3160;275</Position>
+>>>>>>> main
               <StyleLien>1</StyleLien>
               <PreAssertion>?</PreAssertion>
               <PostAssertion>?</PostAssertion>
@@ -361,7 +465,11 @@
               <Enfants/>
             </Action>
             <Action>
+<<<<<<< HEAD
               <Position>4334;225</Position>
+=======
+              <Position>3392;274</Position>
+>>>>>>> main
               <StyleLien>1</StyleLien>
               <PreAssertion>?</PreAssertion>
               <PostAssertion>?</PostAssertion>
@@ -371,7 +479,11 @@
               <Enfants/>
             </Action>
             <Action>
+<<<<<<< HEAD
               <Position>4552;225</Position>
+=======
+              <Position>3612;274</Position>
+>>>>>>> main
               <StyleLien>1</StyleLien>
               <PreAssertion>?</PreAssertion>
               <PostAssertion>?</PostAssertion>
@@ -381,7 +493,11 @@
               <Enfants/>
             </Action>
             <Action>
+<<<<<<< HEAD
               <Position>4899;223</Position>
+=======
+              <Position>3965;276</Position>
+>>>>>>> main
               <StyleLien>1</StyleLien>
               <PreAssertion>?</PreAssertion>
               <PostAssertion>?</PostAssertion>
@@ -391,7 +507,11 @@
               <Enfants/>
             </Action>
             <Action>
+<<<<<<< HEAD
               <Position>4703;224</Position>
+=======
+              <Position>3769;274</Position>
+>>>>>>> main
               <StyleLien>1</StyleLien>
               <PreAssertion>?</PreAssertion>
               <PostAssertion>?</PostAssertion>
@@ -404,6 +524,7 @@
         </Action>
       </Enfants>
     </Action>
+<<<<<<< HEAD
     <Action>
       <Position>563;555</Position>
       <StyleLien>2</StyleLien>
@@ -465,5 +586,7 @@
         </Action>
       </Enfants>
     </Action>
+=======
+>>>>>>> main
   </Elements>
 </Algorithme>
